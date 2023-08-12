@@ -1,0 +1,15 @@
+1. Only converts word files
+
+3. Only converts text, implement for 
+    a. tables 
+    b. OCR 
+    c. images
+    all in a doc file
+    
+If other formats are implemented it breaks the pdf
+
+2. implement for other formats for files
+
+3. Provide options for changing font, font size and style etc
+
+4. Explore options in package in pdfDoc and implement all that
